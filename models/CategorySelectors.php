@@ -1,0 +1,16 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: maksim
+ * Date: 03.03.17
+ * Time: 15:58
+ */
+
+namespace CriteoAPI\models;
+
+
+class CategorySelectors
+{
+    public $categoryIDs; // ArrayOfInt
+    public $selected; // boolean
+}

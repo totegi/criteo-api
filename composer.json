@@ -1,0 +1,12 @@
+{
+  "name": "zinchenkomax/CriteoAPI",
+  "description": "Criteo API php Library",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Maksim Zinchenko",
+      "email": "zinchenkomax@hotmail.com"
+    }
+  ]
+}
